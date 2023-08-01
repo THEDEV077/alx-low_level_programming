@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * description : prints the alphabet in lowercase
- * return : always 0
+ * return: always 0
  */
 int main(void)
 {
